@@ -24,29 +24,29 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
+![download](https://user-images.githubusercontent.com/101628663/190190964-f05f5936-ecb2-4e11-be8e-fb6d34c17b1a.png)
+
+
+- Accuracy on training data has increased by using Augmentor library
+
+Model is still overfitting
+
+The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
+
+The Model can be further improved by tuning the hyperparameter
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pyhton
+- Tensorflow, kears
+- Matplotlib, pandas
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was Assignment of EXPG of machine learning and AI. 
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@githubomkarkurve] - feel free to contact me!
+kurve.omkar@gmail.com
